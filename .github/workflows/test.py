@@ -4,6 +4,7 @@ from datetime import datetime
 from discord.ext import commands
 from discord.utils import get
 from keep_alive import keep_alive
+from smart_getenv import getenv
 bot = commands.Bot(command_prefix='!')
 
 
