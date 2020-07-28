@@ -569,4 +569,4 @@ async def data(message):
     await message.channel.send(data)
     
 keep_alive()
-client.run(os.environ['NjkwNTUyNzk5ODg4NjcwNzQx.XnTFaQ.RZwtz3tD-EW0dv09O_P5dY5nORY'])
+bot.run(os.environ['NjkwNTUyNzk5ODg4NjcwNzQx.XnTFaQ.RZwtz3tD-EW0dv09O_P5dY5nORY'])
